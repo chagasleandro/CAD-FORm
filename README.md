@@ -21,4 +21,4 @@ $ git clone https://github.com/chagasleandro/CAD-FORm
 
 Em seguida execute o arquivo 'index.html' no seu navegador.
 
-link para acessar o projeto:https://chagasleandro.github.io/CAD-FORm/
+link para acessar o projeto:https://chagasleandro.github.io/CAD-FORm//
