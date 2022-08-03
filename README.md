@@ -1,6 +1,8 @@
 # CAD-FORm
 <p>projeto em treinamento de HTML, CSS e JS um cadastro de e-mail de usuário.</p>
 
+## :globe_with_meridians: Tecnologias utilizadas:
+
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
 <img  alt="HTML"
