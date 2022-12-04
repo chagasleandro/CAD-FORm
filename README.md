@@ -1,7 +1,7 @@
 # CAD-FORm
 <p>projeto em treinamento de HTML, CSS e JS um cadastro de e-mail de usuário.</p>
 </br></br>
-<img src="src/assets/img.jpg" />
+<img src="img/img.jpg" />
 
 ## :globe_with_meridians: Tecnologias utilizadas:
 
