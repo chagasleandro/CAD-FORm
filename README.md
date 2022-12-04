@@ -1,9 +1,14 @@
-# CAD-FORm
-<p>projeto em treinamento de HTML, CSS e JS um cadastro de e-mail de usuário.</p>
-</br></br>
-<img src="img/img.jpg" />
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## :globe_with_meridians: Tecnologias utilizadas:
+# 💻  Projeto
+<p>CARD-Form em treinamento de HTML, CSS e JS um cadastro de e-mail de usuário.</p>
+
+##  🚀 Tecnologias
 
 Esse projeto foi desenvolvido usando as seguintes tecnologias:
 
@@ -13,6 +18,9 @@ Esse projeto foi desenvolvido usando as seguintes tecnologias:
      src="https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=CSS&logoColor=white"/>
 <img alt="JavaScript"
       src="https://img.shields.io/badge/JavaScript-%231572B6.svg?style=for-the-badge&logo=JavaScript&logoColor=white"/>
+      
+</br></br>
+<img src="img/img.jpg" />      
 
 
 ## :wrench: Como Utilizar
@@ -23,4 +31,6 @@ $ git clone https://github.com/chagasleandro/CAD-FORm
 
 Em seguida execute o arquivo 'index.html' no seu navegador.
 
-link para acessar o projeto:https://chagasleandro.github.io/CAD-FORm//
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [desse link](https://chagasleandro.github.io/CAD-FORm//)
